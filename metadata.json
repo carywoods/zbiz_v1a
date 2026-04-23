@@ -1,0 +1,7 @@
+{
+  "name": "Zionsville.biz Local Directory",
+  "description": "A hybrid local business directory and digital magazine for the town of Zionsville, Indiana, featuring AI-powered search with Google Search and Maps grounding.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
